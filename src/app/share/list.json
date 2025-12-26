@@ -232,5 +232,15 @@
 			"3D"
 		],
 		"stars": 3
+	},
+	{
+		"name": "XN导航",
+		"logo": "blob:https://blogsong-ci92iwl2d-alans-projects-bd51e345.vercel.app/7fa19d3e-ead6-43ee-8810-f15994efd284",
+		"url": "https://asianb.dpdns.org/",
+		"description": "各种内容包括：二级域名，免费服务器",
+		"tags": [
+			"网站"
+		],
+		"stars": 3
 	}
 ]
