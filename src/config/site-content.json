@@ -5,7 +5,7 @@
 		"username": "alan"
 	},
 	"theme": {
-		"colorBrand": "#2a48f3",
+		"colorBrand": "#A788AE",
 		"colorPrimary": "#e6e8e8",
 		"colorSecondary": "#acadae",
 		"colorBrandSecondary": "#51d0b9",
@@ -15,7 +15,12 @@
 		"colorArticle": "#6f6f6f33"
 	},
 	"backgroundColors": [
-		"#16007b"
+		"#0733BB",
+		"#91C47C",
+		"#7B1435",
+		"#813057",
+		"#A52B8D",
+		"#2632BD"
 	],
 	"artImages": [
 		{
